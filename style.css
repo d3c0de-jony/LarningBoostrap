@@ -1,5 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 body {
-    background-color: blue;
-    color: white;
+    background-color: rgb(6, 27, 0);
+    color: rgb(110, 230, 6);
     font-family: monospace;
+}
+
+.navbar-brand {
+    background-color: ;
+    padding-left: 10px;
+    color: rgb(0, 241, 0) !important;
+}
+
+.bg-body-tertiary {
+    background-color: rgb(88, 79, 79) !important;
+    color: white !important;
+}
+
+a {
+    color: white !important;
+    font-family: "Pacifico", cursive;
+}
+
+.btn {
+    background-color: rgb(55, 255, 0) !important;
+    color: rgb(28, 24, 24);
+}
+
+.nav-link {
+
+    padding: 10px;
+    ;
+}
+
+.top {
+    background-image: url(profile.png);
+    background-size: cover;
+   image
+    border: 2px white solid;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    top: 30px;
+    border-radius: 100px;
 }
